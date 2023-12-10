@@ -1,0 +1,82 @@
+ [
+    {
+      "id": 1,
+      "title": "COXSBAY",
+      "cardImage": "https://example.com/coxs_bazar_card.jpg",
+      "bgImage": "https://example.com/coxs_bazar_bg.jpg",
+      "location": "Chittagong Division, Bangladesh",
+      "description": "Cox's Bazar is a city and fishing port known for its long sandy beach and tourism attractions."
+    },
+    {
+      "id": 2,
+      "title": "SRIMONGOL",
+      "cardImage": "https://ibb.co/ZgHd4bT",
+      "bgImage": "https://example.com/srimongol_bg.jpg",
+      "location": "Sylhet Division, Bangladesh",
+      "description": "Srimongol is the 'Tea Capital of Bangladesh' with lush tea gardens and a charming atmosphere."
+    },
+    {
+      "id": 3,
+      "title": "SUNDARBAN",
+      "cardImage": "https://ibb.co/ZHb6WpV",
+      "bgImage": "https://example.com/sundarbans_bg.jpg",
+      "location": "Khulna Division, Bangladesh",
+      "description": "Sundarbans is the world's largest mangrove forest, home to diverse flora and fauna."
+    },
+    {
+      "id": 4,
+      "title": "RATARGUL",
+      "cardImage": "https://example.com/ratargul_card.jpg",
+      "bgImage": "https://example.com/ratargul_bg.jpg",
+      "location": "Sylhet Division, Bangladesh",
+      "description": "Ratargul Swamp Forest is a freshwater swamp known for its scenic beauty and biodiversity."
+    },
+    {
+      "id": 5,
+      "title": "SAJEK",
+      "cardImage": "https://ibb.co/ZgHd4bT",
+      "bgImage": "https://example.com/sajek_bg.jpg",
+      "location": "Rangamati District, Bangladesh",
+      "description": "Sajek Valley offers breathtaking views with its serene landscapes and picturesque surroundings."
+    },
+    {
+      "id": 6,
+      "title": "LALBAGH",
+      "cardImage": "https://example.com/lalbagh_card.jpg",
+      "bgImage": "https://example.com/lalbagh_bg.jpg",
+      "location": "Dhaka Division, Bangladesh",
+      "description": "Lalbagh Fort is a historic palace and fortress, a major landmark in the heart of Dhaka."
+    },
+    {
+      "id": 7,
+      "title": "KUAKATA",
+      "cardImage": "https://example.com/kuakata_card.jpg",
+      "bgImage": "https://example.com/kuakata_bg.jpg",
+      "location": "Barishal Division, Bangladesh",
+      "description": "Kuakata is a panoramic sea beach known for its natural beauty and stunning sunset views."
+    },
+    {
+      "id": 8,
+      "title": "JAFLONG",
+      "cardImage": "https://example.com/jaflong_card.jpg",
+      "bgImage": "https://example.com/jaflong_bg.jpg",
+      "location": "Sylhet Division, Bangladesh",
+      "description": "Jaflong is a popular tourist spot with tea gardens, hills, and the scenic Dawki River."
+    },
+    {
+      "id": 9,
+      "title": "AHSAN",
+      "cardImage": "https://example.com/ahsan_card.jpg",
+      "bgImage": "https://example.com/ahsan_bg.jpg",
+      "location": "Dhaka Division, Bangladesh",
+      "description": "Ahsan Manzil is a historical palace, a symbol of architectural beauty in Dhaka."
+    },
+    {
+      "id": 10,
+      "title": "LAWACHARA",
+      "cardImage": "https://example.com/lawachara_card.jpg",
+      "bgImage": "https://example.com/lawachara_bg.jpg",
+      "location": "Sylhet Division, Bangladesh",
+      "description": "Lawachara National Park is a biodiversity hotspot and wildlife sanctuary in Srimongol."
+    }
+  ]
